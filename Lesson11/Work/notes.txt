@@ -1,0 +1,4 @@
+Pattern uses a Regular Expression. see:
+http://en.wikipedia.org/wiki/Reglar_expression
+
+Place Holders are mostly used for contextual Hints
