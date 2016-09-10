@@ -1,0 +1,13 @@
+Other Input Types For Forms
+===========================
+
+<textarea>
+
+<input type="text">
+<input type="password">
+<input type="hidden">
+<input type="checkbox">
+<input type="radio">
+<input type="file">
+<input type="submit">
+<input type="image">

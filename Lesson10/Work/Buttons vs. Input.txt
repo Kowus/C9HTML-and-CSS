@@ -1,0 +1,13 @@
+Buttons vs. Input
+=================
+
+<button type=button>
+<button type=submit>
+<button type=reset>
+
+Buttons Have More CSS properties to style
+than equivalent input versions.
+
+For more information:
+
+http://particletree.com/features/rediscovering-the-button-element 
